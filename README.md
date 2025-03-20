@@ -10,8 +10,6 @@
     <meta property="og:description" content="Showcasing my skills and projects">
     <meta property="og:image" content="andrew.pr">
     <meta property="og:url" content="https://htmlcode.com">
-    <title>Portfolio | Andrew Akmal</title>
-    <link rel="stylesheet" href="css/project1.css">
     <style>
         body {
             font-family: 'Poppins', sans-serif;

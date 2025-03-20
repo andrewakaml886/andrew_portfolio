@@ -52,6 +52,8 @@
             color: #ffaa00;
         }
     </style>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7481425322648452"
+     crossorigin="anonymous"></script>
 </head>
 <body>
     <div class="container">
